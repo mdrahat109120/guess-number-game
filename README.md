@@ -1,2 +1,18 @@
-# guess-number-game
-A simple number guessing game built with C, featuring random number generation, input validation, and an attempt counter.
+# My First C Programming Project
+
+## Guess Number Game
+
+This is my first project using C.
+
+### Features
+- Random number generation
+- User input
+- Input validation
+- Higher and lower hints
+- Attempt counter
+
+### Language
+C
+
+### Author
+MD Rahat
